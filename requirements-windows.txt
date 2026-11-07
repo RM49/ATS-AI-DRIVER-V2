@@ -1,0 +1,7 @@
+tensorflow
+numpy
+pillow
+pywin32
+pynput
+pygame
+vgamepad
